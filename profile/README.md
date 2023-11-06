@@ -6,7 +6,7 @@ Price of collateral assets in wrapped NFT recalculated each time that API server
 I used 2 components:
 
 * FastBrownieAPI is a rest server that accepts requests for index updates.
-* AutoMetaNFT is a set of scripts that uses Chainlink function and Chainlink automate to schedule FastBrownieAPI reque.
+* AutoMetaNFT is a set of scripts that uses Chainlink function and Chainlink automate to schedule FastBrownieAPI requests.
 
 Bellow examples of generated images:  
 <p align="center">
