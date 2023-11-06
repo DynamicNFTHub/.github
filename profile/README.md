@@ -38,3 +38,4 @@ Bellow examples of generated images:
 * Chainlink functions - https://functions.chain.link/
 * My Dynamic Index NFT address - https://polygonscan.com/address/0x271c2bf44283cc5770fc5005bddd3817609aaef9
 * Same INDEX NFT on Opensea - https://opensea.io/assets/matic/0x271c2bf44283cc5770fc5005bddd3817609aaef9/1
+* For deploy i used - https://akash.network/
