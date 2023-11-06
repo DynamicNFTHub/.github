@@ -29,3 +29,12 @@ Bellow examples of generated images:
 <p align="center">
   <img src="https://salmon-bitter-gull-231.mypinata.cloud/ipfs/QmPd2Qm6bnmiNAgBWY29XzNTX11Dp4C9JRtrug7B5ipWCn" alt="DALLE-3">
 </p>
+
+
+## Helpfull links:
+
+* Here you can create wNFT with collateral assets - https://appv1.envelop.is/saft
+* Chainlink automate - https://automation.chain.link/
+* Chainlink functions - https://functions.chain.link/
+* My Dynamic Index NFT address - https://polygonscan.com/address/0x271c2bf44283cc5770fc5005bddd3817609aaef9
+* Same INDEX NFT on Opensea - https://opensea.io/assets/matic/0x271c2bf44283cc5770fc5005bddd3817609aaef9/1
